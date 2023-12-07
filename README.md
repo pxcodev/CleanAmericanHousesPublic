@@ -22,4 +22,15 @@ For a more detailed view of the website and its content, I suggest you visit [Cl
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
+![Screenshot 1](assets/ScreenShots/1.jpg)
+![Screenshot 2](assets/ScreenShots/2.png)
+![Screenshot 3](assets/ScreenShots/3.jpg)
+![Screenshot 4](assets/ScreenShots/4.png)
+![Screenshot 5](assets/ScreenShots/5.jpg)
+![Screenshot 6](assets/ScreenShots/6.png)
+![Screenshot 7](assets/ScreenShots/7.jpg)
+![Screenshot 8](assets/ScreenShots/8.png)
+![Screenshot 9](assets/ScreenShots/9.png)
+![Screenshot 10](assets/ScreenShots/10.png)
+![Screenshot 11](assets/ScreenShots/11.png)
+![Screenshot 12](assets/ScreenShots/12.png)
