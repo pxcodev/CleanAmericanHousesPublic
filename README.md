@@ -33,4 +33,7 @@ For a more detailed view of the website and its content, I suggest you visit [Cl
 ![Screenshot 9](assets/ScreenShots/9.png)
 ![Screenshot 10](assets/ScreenShots/10.png)
 ![Screenshot 11](assets/ScreenShots/11.png)
-![Screenshot 12](assets/ScreenShots/12.png)
+![Screenshot 12](assets/ScreenShots/12.png)<!-- Add your screenshots here -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4MzIyMDk4NF19
+-->
